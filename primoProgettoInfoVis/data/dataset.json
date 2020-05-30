@@ -1,0 +1,65 @@
+[
+  {
+    "body" : 100,
+    "eye": 20,
+    "mouth": 20,
+    "fins" : 80
+  },
+  {
+    "body" : 200,
+    "eye": 45,
+    "mouth": 50,
+    "fins" : 95
+  },
+  {
+    "body" : 67,
+    "eye": 33,
+    "mouth": 47,
+    "fins" : 100
+  },
+  {
+    "body" : 150,
+    "eye": 50,
+    "mouth": 55,
+    "fins" : 70
+  },
+  {
+    "body" : 68,
+    "eye": 45,
+    "mouth": 70,
+    "fins" : 44
+  },
+  {
+    "body" : 120,
+    "eye": 32,
+    "mouth": 35,
+    "fins" : 45
+  },
+  {
+    "body" : 80,
+    "eye": 10,
+    "mouth": 30,
+    "fins" : 30
+  },
+  {
+    "body" : 47,
+    "eye": 50,
+    "mouth": 80,
+    "fins" : 90
+  },
+  {
+    "body" : 90,
+    "eye": 70,
+    "mouth": 90,
+    "fins" : 100
+  },
+  {
+    "body" : 75,
+    "eye": 20,
+    "mouth": 30,
+    "fins" : 45
+   }
+    
+ ]
+    
+
